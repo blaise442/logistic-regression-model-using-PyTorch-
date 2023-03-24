@@ -1,2 +1,3 @@
 # logistic-regression-model-using-PyTorch-
 logistic regression model using PyTorch to classify 
+#### we built a logistic regression model using PyTorch to classify whether a customer purchased a product #### or not based on their gender, age, and estimated salary. We preprocessed the data by converting the  #### gender column to binary values and normalizing the age and estimated salary columns. We split the data  #### into training and testing sets, defined the logistic regression model, loss function, and optimizer,  #### and trained the model for 1000 epochs. We then tested the model on the test data and obtained the  #### accuracy score. Finally, we made predictions on the test data using the trained model.
